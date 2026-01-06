@@ -1,0 +1,56 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Se produjo un error",
+    "retry": "Reintentar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "confirm": "Confirmar",
+    "back": "Atras",
+    "next": "Siguiente",
+    "done": "Hecho",
+    "search": "Buscar",
+    "noResults": "No se encontraron resultados"
+  },
+  "auth": {
+    "welcome": "Bienvenido",
+    "welcomeSubtitle": "Inicia sesion para continuar",
+    "login": "Iniciar sesion",
+    "register": "Registrarse",
+    "logout": "Cerrar sesion",
+    "email": "Correo electronico",
+    "password": "Contrasena",
+    "confirmPassword": "Confirmar contrasena",
+    "forgotPassword": "Olvidaste tu contrasena?",
+    "resetPassword": "Restablecer contrasena",
+    "sendResetLink": "Enviar enlace",
+    "noAccount": "No tienes una cuenta?",
+    "haveAccount": "Ya tienes una cuenta?",
+    "emailPlaceholder": "Ingresa tu correo",
+    "passwordPlaceholder": "Ingresa tu contrasena",
+    "invalidEmail": "Por favor ingresa un correo valido",
+    "invalidPassword": "La contrasena debe tener al menos 8 caracteres",
+    "passwordMismatch": "Las contrasenas no coinciden",
+    "loginSuccess": "Inicio de sesion exitoso",
+    "registerSuccess": "Cuenta creada exitosamente",
+    "resetEmailSent": "Correo de restablecimiento enviado"
+  },
+  "profile": {
+    "title": "Perfil",
+    "displayName": "Nombre para mostrar",
+    "editProfile": "Editar perfil",
+    "updateSuccess": "Perfil actualizado exitosamente",
+    "changeAvatar": "Cambiar avatar"
+  },
+  "home": {
+    "title": "Inicio",
+    "welcome": "Bienvenido, {{name}}!"
+  },
+  "errors": {
+    "network": "Error de red. Verifica tu conexion.",
+    "unauthorized": "Sesion expirada. Por favor inicia sesion de nuevo.",
+    "serverError": "Error del servidor. Intenta de nuevo mas tarde.",
+    "unknown": "Ocurrio un error inesperado"
+  }
+}

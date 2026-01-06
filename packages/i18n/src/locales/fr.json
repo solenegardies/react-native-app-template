@@ -1,0 +1,56 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "retry": "Reessayer",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "confirm": "Confirmer",
+    "back": "Retour",
+    "next": "Suivant",
+    "done": "Termine",
+    "search": "Rechercher",
+    "noResults": "Aucun resultat trouve"
+  },
+  "auth": {
+    "welcome": "Bienvenue",
+    "welcomeSubtitle": "Connectez-vous pour continuer",
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "logout": "Se deconnecter",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "forgotPassword": "Mot de passe oublie ?",
+    "resetPassword": "Reinitialiser le mot de passe",
+    "sendResetLink": "Envoyer le lien",
+    "noAccount": "Pas encore de compte ?",
+    "haveAccount": "Deja un compte ?",
+    "emailPlaceholder": "Entrez votre email",
+    "passwordPlaceholder": "Entrez votre mot de passe",
+    "invalidEmail": "Veuillez entrer un email valide",
+    "invalidPassword": "Le mot de passe doit contenir au moins 8 caracteres",
+    "passwordMismatch": "Les mots de passe ne correspondent pas",
+    "loginSuccess": "Connexion reussie",
+    "registerSuccess": "Compte cree avec succes",
+    "resetEmailSent": "Email de reinitialisation envoye"
+  },
+  "profile": {
+    "title": "Profil",
+    "displayName": "Nom d'affichage",
+    "editProfile": "Modifier le profil",
+    "updateSuccess": "Profil mis a jour avec succes",
+    "changeAvatar": "Changer l'avatar"
+  },
+  "home": {
+    "title": "Accueil",
+    "welcome": "Bienvenue, {{name}} !"
+  },
+  "errors": {
+    "network": "Erreur reseau. Verifiez votre connexion.",
+    "unauthorized": "Session expiree. Veuillez vous reconnecter.",
+    "serverError": "Erreur serveur. Veuillez reessayer plus tard.",
+    "unknown": "Une erreur inattendue s'est produite"
+  }
+}
